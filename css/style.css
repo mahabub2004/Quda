@@ -106,10 +106,10 @@ margin-top: 45px;
 
 
 /*=============================
-Header section   #c45ac2
+Header section   
 ============================*/
 header {
-	background: url(img/1.jpg);
+	background: #c45ac2;
 	background-repeat: no-repeat;
 	background-position: center-top;
 	height: 85vh;
